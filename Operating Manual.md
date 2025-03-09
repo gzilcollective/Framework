@@ -15,14 +15,24 @@
     - [Conflicts of Interest](#conflicts-of-interest)
     - [Foul-play](#foul-play---wip)
     - [Committee Member Removal](#committee-member-removal---wip)
+    - [Conflict Resolution](#conflict-resolution---wip)
 - [Funding Priorities](#funding-priorities)
 - [Types of Funding](#types-of-funding)
     - [Grants](#grants)
+        - [Overview](#overview)
+        - [Grant Seasons & Mission Setting](#grant-seasons--mission-setting)
+          - [Season Cadence](#season-cadence)  
+          - [Mission Setting Process](#mission-setting-process)  
+          - [Why Mission-Based Funding Matters](#why-mission-based-funding-matters)  
     - [Tips](#tips)
+        - [Overview](#overview-1)  
+        - [Tip Seasons & Cadence](#tip-seasons--cadence)  
+        - [Tip Nomination Process](#tip-nomination-process)  
+        - [Tip Size and Budget Allocation - WIP](#tip-size-and-budget-allocation---wip)
 - [Token Project Distribution Terms](#token-project-distribution-terms---wip)
 - [Treasury Management and Fund Utilisation](#treasury-management-and-fund-utilisation)
     - [Treasury Governance](#treasury-governance---wip)
-    - [Allocation Limits and Safeguards](#allocation-limits-and-safeguards)
+    - [Allocation Limits and Safeguards - WIP](#allocation-limits-and-safeguards---wip)
     - [Example Allocation](#example-allocation)
     - [gZIL Committee Validator Node on Zilliqa 2.0](#gzil-committee-validator-node-on-zilliqa-20)
         - [Intent](#intent)
@@ -114,6 +124,8 @@ All committee members are required to disclose all anticipated conflicts of inte
 
 ### Committee Member Removal - WIP
 
+### Conflict Resolution - WIP
+
 
 ## Funding Priorities
 
@@ -134,14 +146,111 @@ This section outlines the financial incentives available to projects and teams f
 
 ### Grants
 
+#### Overview
+
 - Funding for early-stage projects, with a focus on open-source development and community benefit.
 - Funds will be released in tranches based on the achievement of predefined milestones to ensure accountability and progress, with clear reporting requirements for funded projects to maintain transparency and allow for performance monitoring.
 - The largest grants awarded will be up to $50k USD worth of ZIL
 
+#### Grant Seasons & Mission Setting
+To ensure funding remains strategically aligned with the evolving needs of the Zilliqa ecosystem, grants will be awarded in Seasons. Each season will have a defined "mission" — a core theme that grant applications must aim to fulfill — agreed upon by the gZIL Committee and the community. This approach ensures funding is directed towards high-impact priorities, while allowing the fund to scale sustainably over time.
+
+##### Season Cadence
+- **First Year:** Grants will be awarded once every 6 months to allow the treasury to grow sufficiently through staking and treasury management returns.
+- **After Year One:** Grants will shift to a quarterly cycle, with funding rounds opening at the end of each quarter.
+
+##### Mission Setting Process
+
+Before each grant season begins, the Committee and the community will collaborate to agree on a "mission" or theme for that funding round. The process is as follows:
+
+**1. Community Input Phase (Week 1):**
+- The Committee will initiate a community discussion thread on the governance forum inviting suggestions for the mission of the upcoming grant season
+- Suggested missions could include: increasing Total Value Locked (TVL), expanding Zilliqa’s DeFi ecosystem, enhancing NFT utility, driving developer tooling, etc.
+
+**2. Committee Curation Phase (Week 2):**
+- The Committee will review, consolidate, and shortlist 3-5 mission themes from community suggestions.
+- The shortlisted themes will be practical, high-impact, and aligned with Zilliqa’s broader ecosystem goals.
+
+**3. Snapshot Vote (Week 3):**
+- The community will vote on Snapshot to select the mission for the upcoming grant season.
+- The winning mission will become the core funding theme for that season.
+
+**4. Application Opening (Week 4):**
+- The Committee will announce the chosen mission and open grant applications aligned to that theme.
+- While applications may touch on other areas, those most aligned with the mission will be prioritized.
+
+**5. Review & Impact Assessment (End of Season):**
+- At the end of each season, the Committee will review the outcomes of funded projects and report on how effectively the mission was fulfilled.
+- These insights will help shape the priorities of future funding rounds.
+
+##### Why Mission-Based Funding Matters
+- It allows the Collective to concentrate resources on a specific high-impact objective per season.
+- It increases community involvement by allowing them to shape funding priorities.
+- It creates measurable impact as funded projects can be evaluated against the season’s mission.
+- It prevents fragmented or unfocused funding, ensuring maximum ROI for the Zilliqa ecosystem.
+
 ### Tips
-- Typically smaller rewards, tips provide a mechanism to reward community members for work that has already been completed
+
+#### Overview
+
+- Typically smaller rewards, tips provide a mechanism to reward community members, teams or projects that have already delivered measurable value to the Zilliqa ecosystem without prior funding
+- This process is intended to recognise and incentivise community-led contributions that significantly benefit the network, and that otherwise might not fit into the traditional grant funding model
 - Rewarded once per quarter after all tip submissions have been reviewed by gZIL holders
-- This system allows for a flexible and community-driven way to reward contributions that benefit the Zilliqa ecosystem. It's a great way to recognise and incentivise valuable work that might not fit into the traditional proposal or bounty models
+- The Tips program operates on a retrospective basis — the work must already be complete, publicly available, and demonstrate clear impact before a Tip can be considered
+
+#### Tip Seasons & Cadence
+Tips will be awarded once per quarter (in sync with the Grant Seasons) to ensure a structured and predictable process. 
+
+#### Tip Nomination Process
+The Tip Nomination Process is entirely community-driven, allowing any community member to propose individuals, teams, or projects they believe deserve retrospective rewards.
+
+**1. Open Nominations (Week 1):**
+- The Committee will open a Tip Nomination Period at the start of each quarter (aligned with the grant season).
+- Any community member may submit a nomination to the Committee using the structured nomination form (see the Tip Nomination Form). The form must capture:
+  - Name of the project/person: Who is being nominated.
+  - Description of work: A summary of the work that has been completed and its impact.
+  - Links/Evidence: Supporting materials, such as GitHub repos, social media campaigns, product demos, or media coverage.
+  - Suggested Tip Amount: An optional field where the nominator can suggest a Tip value (in ZIL).
+
+  **Key Rule:** The work must be fully completed and publicly available. Incomplete work or pre-launched products are ineligible.
+
+**2. Community Discussion & Validation (Week 2):**
+- Once nominations close, all nominations will be published in a dedicated "Tip Nomination Thread" on the governance forum.
+- The community is encouraged to discuss and validate the contributions by:
+  - Supporting nominations they agree with.
+  - Providing additional evidence or testimonials about the project's impact.
+  - Raising any concerns about nominations they believe are undeserving.
+- This period serves as social validation, ensuring that only genuinely impactful contributions receive Tips.
+- The Committee will monitor the discussion but will not influence the validation phase to ensure neutrality.
+
+**3. Committee Review & Shortlist (Week 3):**
+- The Committee will formally review all nominations based on:
+  1. Impact: Did the contribution meaningfully benefit the Zilliqa ecosystem?
+  1. Originality: Was the work innovative, unique, or particularly valuable?
+  1. Effort: Did the work require significant effort, resources, or expertise?
+  1. Alignment: Does the work align with the Zilliqa Collective’s mission and priorities?
+- The Committee will then shortlist the nominations and assign a proposed Tip amount for each.
+- If the cumulative value of Tips exceeds the budget allocation for that quarter, the Committee may prioritize the highest-impact contributions.
+
+**4. Community Voting on Tips (Week 4):**
+- The shortlisted nominations, along with their proposed Tip amounts, will be put to a Snapshot vote.
+- gZIL holders will vote For/Against each shortlisted Tip.
+- Any Tip receiving over 66% ‘For’ votes will be awarded.
+- If a Tip is rejected, the Committee may reconsider it in the next quarter if new evidence of impact emerges.
+
+**5. Tip Disbursement (Week 5):**
+- Approved Tips will be disbursed from the Treasury within 7 days of the Snapshot vote.
+- Recipients will receive their Tip in ZIL (equivalent to the approved Tip amount).
+
+#### Tip Size and Budget Allocation - WIP
+ 
+| Contribution Size       | Typical Tip Amount       | Examples                                                                |
+|------------------------|-------------------------|-------------------------------------------------------------------------|
+| **Small Contribution**  | $500 - $2,000 in ZIL     | Creating an open-source tool, writing a detailed technical guide.        |
+| **Medium Contribution** | $2,000 - $5,000 in ZIL  | Building a functional DApp, launching a community-led campaign.          |
+| **Large Contribution**  | $5,000 - $10,000 in ZIL | Major product launch, large-scale ecosystem contribution.                |
+
+
 
 ## Token Project Distribution Terms - WIP
 
@@ -162,7 +271,7 @@ To ensure responsible financial management while maintaining community involveme
 - **Committee Decisions:** The gZIL Committee executes these strategies, determining the best financial instruments, risk mitigation strategies, and timing for stablecoin conversion and investments. This is to enable quicker reactions to risk scenarios, such as de-pegging events or poorly performing investments
 - **Transparency Measures:** Quarterly reports on fund allocations and financial decisions will be published for community review
 
-### Allocation Limits and Safeguards
+### Allocation Limits and Safeguards - WIP
 
 To prevent centralisation of funds, minimise risk and ensure equitable distribution, the following limits will be imposed:
 
