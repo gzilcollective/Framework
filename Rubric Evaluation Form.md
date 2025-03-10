@@ -12,7 +12,7 @@ Once voter participation and quorum increase sufficiently, the intention is to f
 
 For each criterion listed, applications will be evaluated based on a binary point system: either the maximum points or no points are awarded. Each criterion is assigned a weighted points value that reflects its relative importance in the overall assessment.
 
-*Minimum score required for progression to governance forum: 6/8*
+*Minimum score required for progression to governance forum: 7/9*
 
 1. Mission Alignment
     - 0: No clear alignment
@@ -31,17 +31,21 @@ For each criterion listed, applications will be evaluated based on a binary poin
     - 1: Strong team
 
 5. Metrics
-    - 0: not good/unclear
-    - 1: somewhat good/clear
+    - 0: Not good/unclear
+    - 1: Somewhat good/clear
 
-6. Milestone clarity and trackability
+6. Milestone Clarity and Trackability
     - 0: No
     - 1: Yes
+  
+7. Budget Justification
+    - 0: Not good/unclear
+    - 1: Funds are proportionate and justified based on the milestones and deliverables
 
-7. Discretionary factor 1 (e.g. Will ZIL granted be converted – potentially harmful for the ecosystem?)
+8. Discretionary factor 1 (e.g. Will ZIL granted be converted – potentially harmful for the ecosystem?)
     - 0: Comment
     - 1: Comment
 
-8. Discretionary factor 2 (e.g. will project increase TVL / will project attract external, non-ZIL-native user?)
+9. Discretionary factor 2 (e.g. will project increase TVL / will project attract external, non-ZIL-native user?)
     - 0: Comment
     - 1: Comment
